@@ -3,7 +3,7 @@
   "client_name": "Patrick Training OS",
   "client_uri": "https://panders-dev.github.io/training-mcp/",
   "redirect_uris": [
-    "http://localhost:6274/oauth/callback"
+    "http://127.0.0.1:6274/oauth/callback"
   ],
   "grant_types": [
     "authorization_code",
