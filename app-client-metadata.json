@@ -1,9 +1,10 @@
 {
   "client_id": "https://panders-dev.github.io/training-mcp/app-client-metadata.json",
   "client_name": "Patrick Training OS",
-  "client_uri": "https://panders-dev.github.io/training-mcp/",
+  "client_uri": "https://patrick-training-os.vercel.app/",
   "redirect_uris": [
-    "http://127.0.0.1:3000/api/oauth/callback"
+    "http://127.0.0.1:3000/api/oauth/callback",
+    "https://patrick-training-os.vercel.app/api/oauth/callback"
   ],
   "grant_types": [
     "authorization_code",
